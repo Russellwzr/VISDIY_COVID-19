@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9fe0aadf-8d99-403c-9e33-3aaea7139b50" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>埃塞俄比亚</find>
+      <find>法国</find>
+      <find>新</find>
+      <find>四川</find>
+      <find>云南</find>
+      <find>辽宁</find>
+      <find>巴基斯坦</find>
+      <find>埃及</find>
+      <find>孟加拉国</find>
+      <find>阿联酋</find>
+      <find>新加坡</find>
+      <find>卡塔尔</find>
+      <find>坦桑尼亚</find>
+      <find>美国</find>
+      <find>United States</find>
+      <find>俄罗斯</find>
+      <find>British</find>
+      <find>英国</find>
+      <find>nameMap</find>
+      <find>UAE</find>
+      <find>科特迪瓦</find>
+      <find>法属圭亚那</find>
+      <find>South</find>
+      <find>南苏丹</find>
+      <find>Republic of Congo</find>
+      <find>Congo</find>
+      <find>geoCoordMap</find>
+      <find>convertData</find>
+      <find>刚果</find>
+      <find>splitList</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/js/echart.js" />
+        <option value="$USER_HOME$/Downloads/疫情可视化/index.html" />
+        <option value="$USER_HOME$/Downloads/疫情可视化/js/echart.js" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/MediaTest.html" />
+        <option value="$PROJECT_DIR$/TestForSlides.html" />
+        <option value="$PROJECT_DIR$/map.js" />
+        <option value="$PROJECT_DIR$/JsonTest.html" />
+        <option value="$PROJECT_DIR$/testWorld.js" />
+        <option value="$PROJECT_DIR$/WorldMapCsv.js" />
+        <option value="$PROJECT_DIR$/WorldMap.html" />
+        <option value="$PROJECT_DIR$/css/style2.0.css" />
+        <option value="$PROJECT_DIR$/Import_Map.js" />
+        <option value="$PROJECT_DIR$/echarts-map/json/world.json" />
+        <option value="$PROJECT_DIR$/WorldMap.js" />
+        <option value="$PROJECT_DIR$/echarts/left3.js" />
+        <option value="$PROJECT_DIR$/echarts/yiqingzoushi.js" />
+        <option value="$PROJECT_DIR$/echarts/haiwaiyiqingqingkuang.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/echarts/Import_Map.js" />
+        <option value="$PROJECT_DIR$/echarts/ChinaMap.js" />
+        <option value="$PROJECT_DIR$/echarts/WorldMap.js" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="56" />
+    <option name="y" value="51" />
+    <option name="width" value="1848" />
+    <option name="height" value="998" />
+  </component>
+  <component name="ProjectId" id="27THSALo8JHlcepXtkmHH17yqyT" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="VisDIY" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VisDIY" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VisDIY" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VisDIY" type="462c0819:PsiDirectoryNode" />
+              <item name="echarts" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="JsonTest.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/VisDIY/JsonTest.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="WorldMap.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/VisDIY/WorldMap.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/VisDIY/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/VisDIY/test.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="WorldMap.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/WorldMap.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.WorldMap.html" />
+        <item itemvalue="JavaScript Debug.test.html" />
+        <item itemvalue="JavaScript Debug.JsonTest.html" />
+        <item itemvalue="Node.js.WorldMap.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fe0aadf-8d99-403c-9e33-3aaea7139b50" name="Default Changelist" comment="" />
+      <created>1594914026003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594914026003</updated>
+      <workItem from="1594914027335" duration="3926000" />
+      <workItem from="1594952643266" duration="7240000" />
+      <workItem from="1594976381754" duration="279000" />
+      <workItem from="1594980424624" duration="11932000" />
+      <workItem from="1595042371003" duration="805000" />
+      <workItem from="1595060665828" duration="2183000" />
+      <workItem from="1595063005042" duration="1341000" />
+      <workItem from="1595064519575" duration="297000" />
+      <workItem from="1595065218757" duration="910000" />
+      <workItem from="1595070115087" duration="6106000" />
+      <workItem from="1595119824802" duration="4029000" />
+      <workItem from="1595138730803" duration="5648000" />
+      <workItem from="1595156186817" duration="5630000" />
+      <workItem from="1595162575582" duration="161000" />
+      <workItem from="1595162947874" duration="661000" />
+      <workItem from="1595163632725" duration="22000" />
+      <workItem from="1595207074413" duration="3043000" />
+      <workItem from="1595210202645" duration="36000" />
+      <workItem from="1595210860539" duration="174000" />
+      <workItem from="1595242546394" duration="661000" />
+      <workItem from="1595243839788" duration="830000" />
+      <workItem from="1595244703953" duration="94000" />
+      <workItem from="1595248250732" duration="110000" />
+      <workItem from="1595248762779" duration="64000" />
+      <workItem from="1595255244361" duration="2443000" />
+      <workItem from="1595300715882" duration="761000" />
+      <workItem from="1649337158279" duration="1496000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="59386000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="56" y="51" width="1848" height="998" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1689038" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/china.js" />
+    <entry file="file://$USER_HOME$/Downloads/疫情可视化/js/common.js" />
+    <entry file="file://$USER_HOME$/Downloads/疫情可视化/js/foundation-datepicker.js" />
+    <entry file="file://$USER_HOME$/Downloads/疫情可视化/js/world.js" />
+    <entry file="file://$USER_HOME$/Downloads/疫情可视化/js/echart.js" />
+    <entry file="file://$USER_HOME$/Downloads/疫情可视化/index.html" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2300">
+          <caret line="740" column="4" selection-start-line="740" selection-start-column="4" selection-end-line="740" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/foundation-datepicker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#15#21#1" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/echart.js" />
+    <entry file="file://$PROJECT_DIR$/MediaTest.html" />
+    <entry file="file://$PROJECT_DIR$/js/echarts.common.min.js" />
+    <entry file="file://$PROJECT_DIR$/../map.js" />
+    <entry file="file://$PROJECT_DIR$/map.js" />
+    <entry file="file://$PROJECT_DIR$/JsonTest.html" />
+    <entry file="file://$PROJECT_DIR$/data/world_map.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2088">
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html" />
+    <entry file="file://$PROJECT_DIR$/TestForSlides.html" />
+    <entry file="file://$PROJECT_DIR$/testWorld.js" />
+    <entry file="file://$PROJECT_DIR$/echarts-map/js/world.js" />
+    <entry file="file://$PROJECT_DIR$/js/world.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-957">
+          <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/echarts-map/json/province/anhui.json" />
+    <entry file="file://$PROJECT_DIR$/echarts-map/json/china.json" />
+    <entry file="file://$PROJECT_DIR$/WorldMapCsv.js" />
+    <entry file="file://$PROJECT_DIR$/../../map2.0/map2.0/worldMap.css" />
+    <entry file="file://$PROJECT_DIR$/WorldMap.html" />
+    <entry file="file://$USER_HOME$/PhpstormProjects/untitled1/HomePage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" selection-start-line="12" selection-end-line="13" selection-end-column="121" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PhpstormProjects/untitled1/styleVer1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="188" column="1" lean-forward="true" selection-start-line="147" selection-end-line="188" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/echarts-map/json/world.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret column="504152" selection-start-column="504152" selection-end-column="504152" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Import_Map.js" />
+    <entry file="file://$PROJECT_DIR$/WorldMap.js" />
+    <entry file="file://$PROJECT_DIR$/css/style2.0.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4843">
+          <caret line="167" column="13" selection-start-line="167" selection-start-column="13" selection-end-line="167" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/echarts/left2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/echarts/left3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2030">
+          <caret line="70" column="27" selection-start-line="70" selection-start-column="20" selection-end-line="70" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/echarts/haiwaiyiqingqingkuang.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/echarts/yiqingzoushi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/echarts/Import_Map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="666" column="4" selection-start-line="666" selection-start-column="4" selection-end-line="666" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/echarts/ChinaMap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="3786" lean-forward="true" selection-start-line="3786" selection-end-line="3786" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/echarts/WorldMap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="11119" column="119" lean-forward="true" selection-start-line="11119" selection-start-column="119" selection-end-line="11119" selection-end-column="119" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#4;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#1;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#2;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#2;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#3;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#4;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

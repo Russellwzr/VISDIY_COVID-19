@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>疫情可视化</title>
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/style2.0.css">
+</head>
+<body>
+<!--头部-->
+<header id="header">
+    <div class="header">
+        <h1 class="">世界疫情大数据分析</h1>
+    </div>
+</header>
+
+<!--内容-->
+<section id="data_content">
+
+    <div class="data_content">
+        <!--左边-->
+        <div class="data_left fl">
+            <div class="left_top">
+                <!--/*左边第一部分*/-->
+                <div class="info public">
+                    <div class="min-title">
+                        <span>累计确诊</span>
+                    </div>
+                    <div id="container" style="width:100%;height:80%;position:absolute;left:1px;top:60px;"></div>
+                    <div class="boxfoot"></div>
+                </div>
+                <!--左边第二部分-->
+                <div class="top_bottom public">
+                    <div class="min-title">
+                        <span>累计死亡</span>
+                    </div>
+                    <div id="container1" style="width:100%;height:100%;position:absolute;left:2px;top:20px;"></div>
+                    <div class="boxfoot"></div>
+                </div>
+                <!--左边第三部分-->
+                <div class="left_bottom public">
+                    <div class="min-title">
+                        <span>累计治愈</span>
+                    </div>
+                    <div id="container2" style="width:100%;height:112%;position:absolute;left:2px;top:1px;"></div>
+                    <div class="boxfoot"></div>
+                </div>
+            </div>
+        </div>
+        <!--中间-->
+        <div class="data_c fl">
+            <a class='button2' style="vertical-align:middle" onclick="world_map()"><span style="font-size: 15px">世界疫情概况</span></a>
+            <a class='button2' style="vertical-align:middle" onclick="importMap()"><span style="font-size: 15px">境外输入概况</span></a>
+            <a class='button2' style="vertical-align:middle" onclick="china_map()"><span style="font-size: 15px">中国疫情概况</span></a>
+            <div id="world_map" class="data_c_1"></div>
+            <div class="data_c_2 public">
+                <div id="container3" style="width: 100%;height: 100%;"></div>
+                <div class="boxfoot"></div>
+            </div>
+        </div>
+        <!--右边-->
+        <div class="data_right fr">
+            <div class="right_top">
+                <!--/*右边第一部分*/-->
+                <div class="right_info public">
+                    <div class="min-title">
+                        <span>疫情走势</span>
+                    </div>
+                    <div id="chart_other" style="width:100%;height: 100%; padding-top: 20px;"></div>
+
+                    <div class="boxfoot"></div>
+                </div>
+                <!--右边第二部分-->
+                <div class="right_content public">
+                    <div class="min-title">
+                        <span>海外疫情情况</span>
+                    </div>
+                    <div id="chart_3" style="width:100%;height: 100%;"></div>
+                    <div class="boxfoot"></div>
+                </div>
+                <!--右边第三部分-->
+                <div class="right_bottom public">
+                    <div class="min-title">
+                        <span>来源国分析</span>
+                    </div>
+                    <div id="charts_2" style="width:100%;height: 100%;"></div>
+                    <div class="boxfoot"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+</body>
+<script src="js/echarts.min.js"></script>
+<script src="js/world.js"></script>
+<script src="js/jquery-2.2.1.min.js"></script>
+<script src="echartsVis/worldMap.js"></script>
+<script src="echartsVis/cumulativeDiagnosis.js"></script>
+<script src="echartsVis/cumulativeDeath.js"></script>
+<script src="echartsVis/cumulativeCure.js"></script>
+<script src="echartsVis/importMap.js"></script>
+<script src="echartsVis/chinaMap.js"></script>
+<script src="js/foundation-datepicker.js"></script>
+<script src="js/foundation-datepicker.zh-CN.js"></script>
+
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts-gl/dist/echarts-gl.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts-stat/dist/ecStat.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts/dist/extension/dataTool.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts/map/js/china.js"></script>
+<script type="text/javascript" src="https://api.map.baidu.com/api?v=2.0&ak=G6IHvCaHuR5GW9v8LNWCI9WRPOQ9var1"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts/dist/extension/bmap.min.js"></script>
+<script src="https://www.echartsjs.com/examples/vendors/echarts/map/js/china.js?_v_=1578305236132"></script>
+    
+<!-- <script type="text/javascript" src="https://api.map.baidu.com/api?v=2.0&ak=xfhhaTThl11qYVrqLZii6w8qE5ggnhrY&__ec_v__=20190126"></script> -->
+<script src="echartsVis/midBottom.js"></script>
+
+<script src="echartsVis/overSeas.js"></script>
+<script src="echartsVis/countryImport.js"></script>
+<script src="echartsVis/covidTrend.js"></script>
+
+
+</script>
+</html>
